@@ -55,15 +55,6 @@ The below walk-through videos and homework solution videos are an extremely help
 [Homework Solution Video](https://www.youtube.com/watch?v=V67yKAonLa4&list=PLgJ8UgkiorClJwRrLq8f9QuzgTflJoeH2&index=8)
 
 - - -
-### [Unit 6 - Intro to APIs and AJAX](01-Class-Content/06-ajax/02-Homework)
-
-[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCmRwLl7YKfFxmNySuAhNdmC)
-
-[Complete NYT Solution Video](https://www.youtube.com/watch?v=PDD8NV3sbZo)
-
-[Homework Solution Video](https://www.youtube.com/watch?v=V67yKAonLa4&list=PLgJ8UgkiorClJwRrLq8f9QuzgTflJoeH2&index=8)
-
-- - -
 
 ### [Unit 7 - Intro to Local Storage and Firebase](01-Class-Content/07-firebase/02-Homework)
 
@@ -92,6 +83,7 @@ The below walk-through videos and homework solution videos are an extremely help
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorClIZdJL_PasNdUR0yWjBCBP)
 
 - - -
+
 ### [Unit 12 - MySQL](01-Class-Content/12-mysql/02-Homework)
 
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCncqIRVifiwiP7VoMpcCq0V)
@@ -108,9 +100,18 @@ The below walk-through videos and homework solution videos are an extremely help
 
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCmI_wKKVt5FlkTG63sQF6rr)
 
+[Homework Solution Video](https://www.youtube.com/watch?v=1mS5w2KOdcQ)
 
 - - -
 
 ### [Unit 14 - Handlebars](01-Class-Content/14-handlebars/02-Homework)
 
 [Complete Playlist (Exercises)](https://www.youtube.com/watch?v=cMAIbAJcvZo&list=PLgJ8UgkiorCk9lJ4G-uQkCyGeKlquugNI)
+
+- - -
+
+### [Unit 15 - Sequelize](01-Class-Content/15-sequelize/02-Homework)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/watch?v=dt9mXaEEAkM&list=PLgJ8UgkiorClj-MYE-wm4J6vfVA3-VqWc)
+
+- - -
