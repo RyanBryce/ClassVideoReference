@@ -108,10 +108,36 @@ The below walk-through videos and homework solution videos are an extremely help
 
 [Complete Playlist (Exercises)](https://www.youtube.com/watch?v=cMAIbAJcvZo&list=PLgJ8UgkiorCk9lJ4G-uQkCyGeKlquugNI)
 
+[Homework Solution Video](https://www.youtube.com/watch?v=pieNMQU3oDw)
+
 - - -
 
 ### [Unit 15 - Sequelize](01-Class-Content/15-sequelize/02-Homework)
 
 [Complete Playlist (Exercises)](https://www.youtube.com/watch?v=dt9mXaEEAkM&list=PLgJ8UgkiorClj-MYE-wm4J6vfVA3-VqWc)
 
+[Homework Solution Video](https://www.youtube.com/watch?v=F-zNZIQVc-8)
+
 - - -
+
+### [Unit 18 - MongoDB](01-Class-Content/18-mongo-mongoose/02-Homework)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/watch?v=Ci1bui7w75k&list=PLgJ8UgkiorCk7zT1kKGwSogEcJbVBzzH8)
+
+- - -
+
+### [Unit 19 - React](01-Class-Content/19-react/01-Activities)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCmEfIp2_y73ohb8G6lqyYQY)
+
+- - -
+
+### [Unit 20 - React](01-Class-Content/20-react/01-Activities)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCkozGKPh0NlHoSzi__FS6aj)
+
+- - -
+
+### [Unit 22 - Computer Science](01-Class-Content/22-computer-science)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/watch?v=3OH-Ta_mc8E&index=1&list=PLgJ8UgkiorCkov7rkGszLyQl-sMUn-cbu)
