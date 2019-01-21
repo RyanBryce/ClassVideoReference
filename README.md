@@ -124,6 +124,8 @@ The below walk-through videos and homework solution videos are an extremely help
 
 [Complete Playlist (Exercises)](https://www.youtube.com/watch?v=Ci1bui7w75k&list=PLgJ8UgkiorCk7zT1kKGwSogEcJbVBzzH8)
 
+[Homework Solution Video](https://www.youtube.com/watch?v=17-n9ImiWVc)
+
 - - -
 
 ### [Unit 19 - React](01-Class-Content/19-react/01-Activities)
